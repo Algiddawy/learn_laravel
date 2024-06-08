@@ -1,2 +1,2 @@
 # learn_laravel
-learning laravel  & update the info's
+learning laravel  & update the infos
